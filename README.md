@@ -1,5 +1,5 @@
 # Laravel Assignment
-#### This project is the assessment for the Full Stack position at ASTUDIO.
+#### This project is the assessment for the full stack developer assessment at ASTUDIO.
 #### This documentation provides the steps required to set up and run the Laravel project for the assessment.
 
 * **Author**: Fatema Alabdalla
@@ -33,8 +33,8 @@ Before setting up the project, ensure that the following are installed on your s
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone git@github.com:Fatema197/laravel_assessment.git
+cd laravel_assessment
 ```
 
 ## Install Dependencies
